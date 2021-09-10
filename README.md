@@ -47,8 +47,16 @@ stty rows <lines> columns <cols>
 
 Maybe not directly useful in CTF's, but maybe in some cases it could be useful to get IPv6
 
-```bash
+https://www.cyberciti.biz/faq/linux-unix-dig-command-examples-usage-syntax/
+
+
+```
 dig ANY @dns-server.evil.corp evil.corp
+```
+
+Reverse lookup:
+```
+dig @dns-server.evil.corp -x 10.10.10.1
 ```
 
 ## SQL inject
