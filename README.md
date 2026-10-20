@@ -7,6 +7,10 @@ TODO:
 
 ## Useful resources
 
+[no page found by 0xdf](https://0xdf.gitlab.io/cheatsheets/404)
+
+[request catcher](https://requestcatcher.com/)
+
 [resh online - change IP :)](https://resh.now.sh/172.16.1.100:9901)
 
 [PayloadsAllTheThings - github](https://github.com/swisskyrepo/PayloadsAllTheThings)
